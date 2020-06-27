@@ -3,16 +3,16 @@ server:
   port: 8080
 
 coin:
-  name: Viacoin
-  symbol: via
-  algo: scrypt
+  name: aria
+  symbol: aro
+  algo: xevan
   blocktime: 24
 
 rpc:
   ip: 127.0.0.1
-  username: via1
-  password: via
-  port: 5222
+  username: nur1labsltd
+  password: 7{RQEA!^W+ZG+4w6
+  port: 46031
 
 zmq:
   endpoint: tcp://127.0.0.1:28332
